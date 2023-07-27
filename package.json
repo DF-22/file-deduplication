@@ -1,0 +1,17 @@
+{
+  "name": "fileduplicatecheck",
+  "version": "1.0.0",
+  "description": "File duplicate checking by crc",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ming",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^4.3.2",
+    "progress": "^2.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
